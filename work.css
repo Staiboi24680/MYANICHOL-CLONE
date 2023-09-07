@@ -1,3 +1,4 @@
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -45,3 +46,20 @@ header span nav:last-child div:last-child img{
     height: 6rem;
     place-self: center;
 }
+
+header {
+  background: rgba(72, 72, 72, 1);
+  margin: 0px;
+  padding: 10px;
+  margin-left: 0cap;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  color: white;
+  margin-left: 500px;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
